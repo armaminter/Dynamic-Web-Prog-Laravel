@@ -2,7 +2,7 @@
 //Odd or Even
 // $num = readline("Enter a number: ");
 // $result = "Even";
-// if ($num % 2 ! = 0) {
+// if ($num % 2 != 0) {
 //    $result = "Odd";
 //}
 //echo "The number is: {$result}";
